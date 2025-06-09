@@ -6,6 +6,7 @@
   - Email: 2712818800@qq.com
   - WeChat: X18012818800
   - QQ: 2712818800
+  - Phone number: +86 18012818800
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
