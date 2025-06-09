@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning Bio-pharmaceuticals & Advanced Therapeutic Technologies and minor in Computer Science and Technology
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me：
--     email: 2712818800@qq.com
--     WeChat: X18012818800
--     QQ: 2712818800
+  - Email: 2712818800@qq.com
+  - WeChat: X18012818800
+  - QQ: 2712818800
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
