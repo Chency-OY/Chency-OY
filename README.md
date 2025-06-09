@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chency-OY
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Bio-pharmaceuticals & Advanced Therapeutic Technologies and minor in Computer Science and Technology
+- 🌱 I’m currently learning Bio-pharmaceuticals & Advanced Therapeutic Technologies, minor in Computer Science and Technology
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me：
   - Email: 2712818800@qq.com
