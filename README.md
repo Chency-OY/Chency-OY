@@ -43,5 +43,5 @@
 - waiting for more...
 
 ## Contact me
-- [Email: 2712818800@qq.com]
+- [Email: 2712818800@qq.com](mailto:@2712818800@qq.com)
 - [Phone number: +86 18012818800]
