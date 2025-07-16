@@ -31,7 +31,7 @@
 | 2025.07 - 2025.08 |  | China Construction Bank | Understanding project application, industry evaluation, investment and financing, etc. |
 
 ## Awards
-|     Time     |     Hornor     |    Awarding Institution     |     Level     |     Brief Description     |
+|     Time     |     Honor     |    Awarding Institution     |     Level     |     Brief Description     |
 |:------------:|:--------------:|:---------------------------:|:-------------:|:-------------------------:|
 | 2025.3.14 | [University-level Third Prize and College-level First Prize in the "Challenge Cup" National College Students' Extracurricular Academic and Technological Works Competition](http://42.244.33.107/defaultroot/gov/info_view_my.jsp?whir_new_verifyCode=1&editId=38395241) | Soochow University | University level | Cancer therapy achieved by targeted degradation of KRAS via mRNA-based bioPROTAC design |
 | 2025.3.14 | [University-level Third Prize and College-level First Prize in the "Challenge Cup" National College Students' Extracurricular Academic and Technological Works Competition](http://42.244.33.107/defaultroot/gov/info_view_my.jsp?whir_new_verifyCode=1&editId=38395241) | Soochow University | University level | Fluorescence-Guided Surgery Assistive Guidance Model Based on AI Visual Recognition |
