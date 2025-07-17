@@ -22,6 +22,15 @@
 |:--------------:|:-------------:|:---------------:|:-------------------------:|:------------------------:|:-----------:|
 |  | 人工智能辅助RNA药物和疫苗设计：当前进展与发展趋势 |  |  |  |  |
 
+## Research Experience & Projects
+-
+-
+
+## Awards
+|     Time     |     Honor     |    Awarding Institution     |     Level     |     Brief Description     |
+|:------------:|:--------------:|:---------------------------:|:-------------:|:-------------------------:|
+| 2025.3.14 | [University-level Third Prize and College-level First Prize in the "Challenge Cup" National College Students' Extracurricular Academic and Technological Works Competition](http://42.244.33.107/defaultroot/gov/info_view_my.jsp?whir_new_verifyCode=1&editId=38395241) | Soochow University | University level | Cancer therapy achieved by targeted degradation of KRAS via mRNA-based bioPROTAC design |
+| 2025.3.14 | [University-level Third Prize and College-level First Prize in the "Challenge Cup" National College Students' Extracurricular Academic and Technological Works Competition](http://42.244.33.107/defaultroot/gov/info_view_my.jsp?whir_new_verifyCode=1&editId=38395241) | Soochow University | University level | Fluorescence-Guided Surgery Assistive Guidance Model Based on AI Visual Recognition |
 
 ## Work Experience
 
@@ -29,12 +38,6 @@
 |:-----------:|:------------:|:---------------:|:-----:|
 | 2024.10 - present |  | Association for Science and Technology, International College of Pharmaceutical Innovation, Soochow University |  |
 | 2025.07 - 2025.08 |  | China Construction Bank | Understanding project application, industry evaluation, investment and financing, etc. |
-
-## Awards
-|     Time     |     Honor     |    Awarding Institution     |     Level     |     Brief Description     |
-|:------------:|:--------------:|:---------------------------:|:-------------:|:-------------------------:|
-| 2025.3.14 | [University-level Third Prize and College-level First Prize in the "Challenge Cup" National College Students' Extracurricular Academic and Technological Works Competition](http://42.244.33.107/defaultroot/gov/info_view_my.jsp?whir_new_verifyCode=1&editId=38395241) | Soochow University | University level | Cancer therapy achieved by targeted degradation of KRAS via mRNA-based bioPROTAC design |
-| 2025.3.14 | [University-level Third Prize and College-level First Prize in the "Challenge Cup" National College Students' Extracurricular Academic and Technological Works Competition](http://42.244.33.107/defaultroot/gov/info_view_my.jsp?whir_new_verifyCode=1&editId=38395241) | Soochow University | University level | Fluorescence-Guided Surgery Assistive Guidance Model Based on AI Visual Recognition |
 
 ## Skill list
 - Programming language：Python, C++
