@@ -40,10 +40,10 @@
 | 2025.07 - 2025.08 |  | China Construction Bank | Understanding project application, industry evaluation, investment and financing, etc. |
 
 ## Skill list
--- Technical Skills: C++, Python, HTML5, Linux
-
-- PCR
-- waiting for more...
+- Technical Skills: C++, Python, HTML5, Linux
+- ML & DL: CNN
+- Biology & Bioinformatics: PCR...
+- Interests: Badminton, Long-distance running, Cycling, Traveling
 
 ## Contact me
 - [Email: 2712818800@qq.com](mailto:@2712818800@qq.com)
