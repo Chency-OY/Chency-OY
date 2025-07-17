@@ -42,7 +42,7 @@
 ## Skill list
 - Technical Skills: C++, Python, HTML5, Linux
 - ML & DL: CNN
-- Biology & Bioinformatics: PCR...
+- Biology & Bioinformatics: PCR, Gel electrophoresis...
 - Interests: Badminton, Long-distance running, Cycling, Traveling
 
 ## Contact me
