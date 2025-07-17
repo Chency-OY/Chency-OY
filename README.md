@@ -40,8 +40,8 @@
 | 2025.07 - 2025.08 |  | China Construction Bank | Understanding project application, industry evaluation, investment and financing, etc. |
 
 ## Skill list
-- Programming language：Python, C++
-- Tools：xx, xx, Git
+-- Technical Skills: C++, Python, HTML5, Linux
+
 - PCR
 - waiting for more...
 
