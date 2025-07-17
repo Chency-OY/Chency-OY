@@ -6,7 +6,7 @@
 |:------------:|:--------------:|:--------------:|:--------------:|
 | 2024.10 - 2028.06 | B.S. in Advanced Therapeutic Technologies | Royal College of Surgeons in Ireland, University of Medicine and Health Sciences |  |
 | 2024.09 - 2028.06 | B.E. in Biopharmaceutics | International College of Pharmaceutical Innovation, Soochow University | Dr. Congcong Xu |
-| 2025.09 - 2027.06 |  | School of Computer Science and Technology, Soochow University |  |
+| 2025.09 - 2027.06 | Minor in Computer Science and Technology | School of Computer Science and Technology, Soochow University |  |
 
 
 ## Reviewer Experience
