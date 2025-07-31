@@ -1,1 +1,1 @@
-## Every action you take is a vote for the type of person you wish to become.😇😇
+## [CV](https://github.com/Chency-OY/Chency-OY/blob/main/Curriculum%20Vitae/CV.md)
