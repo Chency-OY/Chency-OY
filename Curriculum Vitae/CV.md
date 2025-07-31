@@ -53,7 +53,7 @@
 - Biology & Bioinformatics: PCR, Gel electrophoresis...
 - Interests: Badminton, Long-distance running, Cycling, Traveling
 - IELTS speaking: 6.5
-- - endnote
+- endnote
 
 ## Contact me
 - [Email: 2712818800@qq.com](mailto:@2712818800@qq.com)
