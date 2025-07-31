@@ -29,7 +29,7 @@
 
 ## Research Experience & Projects
 - waiting to write
-- waiting
+- 校级大创（LNP）
 
 ## Awards
 |     Time     |     Honor     |    Awarding Institution     |     Level     |     Brief Description     |
@@ -37,7 +37,6 @@
 | waiting | International Contest of Innovation, iCAN | waiting | waiting | AI algorithms design circular RNA tumor drugs |
 | waiting | China International College Students’ Innovation Competition | waiting | National-level | Artificial Intelligence algorithm-guided design of circular RNA VZV vaccines |
 | waiting | The Challenge Cup National College Students Extracurricular Academic Science and Technology Competition "Artificial Intelligence Plus" Special Track | waiting | National-level | AI Algorithms Empower the Design of Next-Generation Circular RNA Drugs |
-|  | 校级大创（LNP） |  |  |  |
 | 2025.3.14 | University-level Third Prize and College-level First Prize in the "Challenge Cup" National College Students' Extracurricular Academic and Technological Works Competition [(Access requires Soochow University intranet)](http://42.244.33.107/defaultroot/gov/info_view_my.jsp?whir_new_verifyCode=1&editId=38395241) | Soochow University | University level | Cancer therapy achieved by targeted degradation of KRAS via mRNA-based bioPROTAC design |
 | 2025.3.14 | University-level Third Prize and College-level First Prize in the "Challenge Cup" National College Students' Extracurricular Academic and Technological Works Competition [(Access requires Soochow University intranet)](http://42.244.33.107/defaultroot/gov/info_view_my.jsp?whir_new_verifyCode=1&editId=38395241) | Soochow University | University level | Fluorescence-Guided Surgery Assistive Guidance Model Based on AI Visual Recognition |
 
