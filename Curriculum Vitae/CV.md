@@ -68,8 +68,8 @@
 |     Time     |     Degree     |    College     |     Mentor     |
 |:------------:|:--------------:|:--------------:|:--------------:|
 | 2024.10 - 2028.06 | B.S. in Advanced Therapeutic Technologies | Royal College of Surgeons in Ireland, University of Medicine and Health Sciences [(click here)](https://www.rcsi.com/) |  |
-| 2024.09 - 2028.06 | 生物制药（工学学士） | 国际创新药学院, 苏州大学 | Dr. Congcong Xu [(click here)](https://xrnalab.github.io/index/zn-members-prof-CongcongXu.html) |
-| 2025.09 - 2027.06 | Minor in Computer Science and Technology | 计算机科学与技术学院, 苏州大学 |  |
+| 2024.09 - 2028.06 | 生物制药（工学学士） | 苏州大学 国际创新药学院 | Dr. Congcong Xu [(click here)](https://xrnalab.github.io/index/zn-members-prof-CongcongXu.html) |
+| 2025.09 - 2027.06 | 计算机科学与技术（辅修） | 苏州大学 计算机科学与技术学院 |  |
 
 
 ## 审稿人经历
