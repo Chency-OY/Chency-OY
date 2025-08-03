@@ -87,7 +87,7 @@
 |  | waiting |  |  |  |  |
 | waiting | 人工智能辅助RNA药物和疫苗设计：当前进展与发展趋势 | 《药学学报》（北大核心） | waiting | waiting | waiting |
 
-## 专利
+## 发明专利 & 实用新型专利
 - waiting
 
 ## Research Experience & Projects
