@@ -68,8 +68,8 @@
 |     Time     |     Degree     |    College     |     Mentor     |
 |:------------:|:--------------:|:--------------:|:--------------:|
 | 2024.10 - 2028.06 | B.S. in Advanced Therapeutic Technologies | Royal College of Surgeons in Ireland, University of Medicine and Health Sciences [(click here)](https://www.rcsi.com/) |  |
-| 2024.09 - 2028.06 | 生物制药（工学学士） | International College of Pharmaceutical Innovation, 苏州大学 | Dr. Congcong Xu [(click here)](https://xrnalab.github.io/index/zn-members-prof-CongcongXu.html) |
-| 2025.09 - 2027.06 | Minor in Computer Science and Technology | School of Computer Science and Technology, Soochow University |  |
+| 2024.09 - 2028.06 | 生物制药（工学学士） | 国际创新药学院, 苏州大学 | Dr. Congcong Xu [(click here)](https://xrnalab.github.io/index/zn-members-prof-CongcongXu.html) |
+| 2025.09 - 2027.06 | Minor in Computer Science and Technology | 计算机科学与技术学院, 苏州大学 |  |
 
 
 ## 审稿人经历
@@ -85,7 +85,7 @@
 |:--------------:|:-------------:|:---------------:|:-------------------------:|:------------------------:|:-----------:|
 |  | waiting |  |  |  |  |
 |  | waiting |  |  |  |  |
-| waiting | 人工智能辅助RNA药物和疫苗设计：当前进展与发展趋势 | waiting | waiting | waiting | waiting |
+| waiting | 人工智能辅助RNA药物和疫苗设计：当前进展与发展趋势 | 《药学学报》（北大核心） | waiting | waiting | waiting |
 
 ## 专利
 - waiting
@@ -97,11 +97,11 @@
 ## 获奖经历
 |     Time     |     Honor     |    Awarding Institution     |     Level     |     Brief Description     |
 |:------------:|:--------------:|:---------------------------:|:-------------:|:-------------------------:|
-| waiting | International Contest of Innovation, iCAN | waiting | waiting | AI algorithms design circular RNA tumor drugs |
-| waiting | China International College Students’ Innovation Competition | waiting | National-level | Artificial Intelligence algorithm-guided design of circular RNA VZV vaccines |
-| waiting | 挑战杯 人工智能专项赛 | waiting | National-level | AI Algorithms Empower the Design of Next-Generation Circular RNA Drugs |
-| 2025.3.14 | University-level Third Prize and College-level First Prize in the "Challenge Cup" National College Students' Extracurricular Academic and Technological Works Competition [(Access requires Soochow University intranet)](http://42.244.33.107/defaultroot/gov/info_view_my.jsp?whir_new_verifyCode=1&editId=38395241) | Soochow University | University level | Cancer therapy achieved by targeted degradation of KRAS via mRNA-based bioPROTAC design |
-| 2025.3.14 | University-level Third Prize and College-level First Prize in the "Challenge Cup" National College Students' Extracurricular Academic and Technological Works Competition [(Access requires Soochow University intranet)](http://42.244.33.107/defaultroot/gov/info_view_my.jsp?whir_new_verifyCode=1&editId=38395241) | Soochow University | University level | Fluorescence-Guided Surgery Assistive Guidance Model Based on AI Visual Recognition |
+| waiting | iCAN | waiting | waiting | AI algorithms design circular RNA tumor drugs |
+| waiting | 互联网+ | waiting | National-level | Artificial Intelligence algorithm-guided design of circular RNA VZV vaccines |
+| waiting | 挑战杯 人工智能专项赛 | waiting | 国家级 | AI Algorithms Empower the Design of Next-Generation Circular RNA Drugs |
+| 2025.3.14 | 挑战杯校级三等奖院级一等奖 [(需要苏大内网访问)](http://42.244.33.107/defaultroot/gov/info_view_my.jsp?whir_new_verifyCode=1&editId=38395241) | Soochow University | University level | Cancer therapy achieved by targeted degradation of KRAS via mRNA-based bioPROTAC design |
+| 2025.3.14 | 挑战杯校级三等奖院级一等奖 [(需要苏大内网访问)](http://42.244.33.107/defaultroot/gov/info_view_my.jsp?whir_new_verifyCode=1&editId=38395241) | Soochow University | University level | Fluorescence-Guided Surgery Assistive Guidance Model Based on AI Visual Recognition |
 
 ## Work Experience
 
@@ -115,7 +115,7 @@
 - ML & DL: CNN
 - Biology & Bioinformatics: PCR, Gel electrophoresis...
 - Interests: Badminton, Long-distance running, Cycling, Traveling
-- IELTS speaking: 6.5
+- 雅思口语: 6.5
 - endnote
 
 ## 联系方式
