@@ -1,4 +1,4 @@
-# 📄 **CV（Curriculum Vitae）**
+<img width="943" height="81" alt="image" src="https://github.com/user-attachments/assets/27c18544-c413-4787-86ef-581ea5ed0efe" /># 📄 **CV（Curriculum Vitae）**
 
 ## Educational Background
 
@@ -98,10 +98,10 @@
 |     Time     |     Honor     |    Awarding Institution     |     Level     |     Brief Description     |
 |:------------:|:--------------:|:---------------------------:|:-------------:|:-------------------------:|
 | waiting | iCAN大学生创新创业大赛 | waiting | waiting | AI algorithms design circular RNA tumor drugs |
-| waiting | 中国国际大学生创新大赛（原 互联网+）国际赛道 | waiting | National-level | Artificial Intelligence algorithm-guided design of circular RNA VZV vaccines |
-| waiting | “挑战杯”全国大学生课外学术科技作品竞赛 “人工智能+”应用赛 | waiting | 国家级 | AI Algorithms Empower the Design of Next-Generation Circular RNA Drugs |
-| 2025.3.14 | “挑战杯”全国大学生课外学术科技作品竞赛 校级三等奖 院级一等奖 [(需要苏大内网访问)](http://42.244.33.107/defaultroot/gov/info_view_my.jsp?whir_new_verifyCode=1&editId=38395241) | Soochow University | University level | Cancer therapy achieved by targeted degradation of KRAS via mRNA-based bioPROTAC design |
-| 2025.3.14 | “挑战杯”全国大学生课外学术科技作品竞赛 校级三等奖 院级一等奖 [(需要苏大内网访问)](http://42.244.33.107/defaultroot/gov/info_view_my.jsp?whir_new_verifyCode=1&editId=38395241) | Soochow University | University level | Fluorescence-Guided Surgery Assistive Guidance Model Based on AI Visual Recognition |
+| waiting | 中国国际大学生创新大赛（原 互联网+）国际赛道 | waiting | 国家级 | Artificial Intelligence algorithm-guided design of circular RNA VZV vaccines |
+| waiting | “挑战杯”全国大学生课外学术科技作品竞赛 “人工智能+”应用赛 | waiting | 国家级 | 人工智能算法赋能下一代环状RNA药物设计 |
+| 2025.3.14 | “挑战杯”全国大学生课外学术科技作品竞赛 校级三等奖 院级一等奖 [(需要苏大内网访问)](http://42.244.33.107/defaultroot/gov/info_view_my.jsp?whir_new_verifyCode=1&editId=38395241) | Soochow University | 校级 | 基于mRNA设计的bioPROTAC靶向降解KRAS实现癌症治疗 |
+| 2025.3.14 | “挑战杯”全国大学生课外学术科技作品竞赛 校级三等奖 院级一等奖 [(需要苏大内网访问)](http://42.244.33.107/defaultroot/gov/info_view_my.jsp?whir_new_verifyCode=1&editId=38395241) | Soochow University | 校级 | 基于人工智能视觉识别的荧光手术辅助指导模型 |
 
 ## Work Experience
 
