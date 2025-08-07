@@ -29,7 +29,7 @@
 
 ## Research Experience & Projects
 - waiting to write
-- 校级大创（LNP）
+- 校级大创（LNP）超声辅助的二硫戊环修饰脂质纳米颗粒实现 mRNA 高效递送
 
 ## Awards
 |     Time     |     Honor     |    Awarding Institution     |     Level     |     Brief Description     |
@@ -92,7 +92,7 @@
 
 ## Research Experience & Projects
 - waiting to write
-- 校级大创（LNP）
+- 校级大创（LNP）超声辅助的二硫戊环修饰脂质纳米颗粒实现 mRNA 高效递送
 
 ## 获奖经历
 |     Time     |     Honor     |    Awarding Institution     |     Level     |     Brief Description     |
