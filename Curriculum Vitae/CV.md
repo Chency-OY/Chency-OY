@@ -97,11 +97,11 @@
 ## 获奖经历
 |     Time     |     Honor     |    Awarding Institution     |     Level     |     Brief Description     |
 |:------------:|:--------------:|:---------------------------:|:-------------:|:-------------------------:|
-| waiting | iCAN | waiting | waiting | AI algorithms design circular RNA tumor drugs |
-| waiting | 互联网+ | waiting | National-level | Artificial Intelligence algorithm-guided design of circular RNA VZV vaccines |
-| waiting | 挑战杯 人工智能专项赛 | waiting | 国家级 | AI Algorithms Empower the Design of Next-Generation Circular RNA Drugs |
-| 2025.3.14 | 挑战杯校级三等奖院级一等奖 [(需要苏大内网访问)](http://42.244.33.107/defaultroot/gov/info_view_my.jsp?whir_new_verifyCode=1&editId=38395241) | Soochow University | University level | Cancer therapy achieved by targeted degradation of KRAS via mRNA-based bioPROTAC design |
-| 2025.3.14 | 挑战杯校级三等奖院级一等奖 [(需要苏大内网访问)](http://42.244.33.107/defaultroot/gov/info_view_my.jsp?whir_new_verifyCode=1&editId=38395241) | Soochow University | University level | Fluorescence-Guided Surgery Assistive Guidance Model Based on AI Visual Recognition |
+| waiting | iCAN大学生创新创业大赛 | waiting | waiting | AI algorithms design circular RNA tumor drugs |
+| waiting | 中国国际大学生创新大赛（原 互联网+）国际赛道 | waiting | National-level | Artificial Intelligence algorithm-guided design of circular RNA VZV vaccines |
+| waiting | “挑战杯”全国大学生课外学术科技作品竞赛 “人工智能+”应用赛 | waiting | 国家级 | AI Algorithms Empower the Design of Next-Generation Circular RNA Drugs |
+| 2025.3.14 | “挑战杯”全国大学生课外学术科技作品竞赛 校级三等奖 院级一等奖 [(需要苏大内网访问)](http://42.244.33.107/defaultroot/gov/info_view_my.jsp?whir_new_verifyCode=1&editId=38395241) | Soochow University | University level | Cancer therapy achieved by targeted degradation of KRAS via mRNA-based bioPROTAC design |
+| 2025.3.14 | “挑战杯”全国大学生课外学术科技作品竞赛 校级三等奖 院级一等奖 [(需要苏大内网访问)](http://42.244.33.107/defaultroot/gov/info_view_my.jsp?whir_new_verifyCode=1&editId=38395241) | Soochow University | University level | Fluorescence-Guided Surgery Assistive Guidance Model Based on AI Visual Recognition |
 
 ## Work Experience
 
