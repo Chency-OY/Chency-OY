@@ -1,4 +1,4 @@
-<img width="943" height="81" alt="image" src="https://github.com/user-attachments/assets/27c18544-c413-4787-86ef-581ea5ed0efe" /># 📄 **CV（Curriculum Vitae）**
+# 📄 **CV（Curriculum Vitae）**
 
 ## Educational Background
 
