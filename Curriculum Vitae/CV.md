@@ -112,8 +112,8 @@
 
 ## Skill list
 - Technical Skills: C++, Python, HTML5, git, Linux, Markdown
-- ML & DL: CNN
-- Biology & Bioinformatics: PCR, Gel electrophoresis...
+- ML & DL: 卷积神经网络
+- Biology & Bioinformatics: 聚合酶链式反应，琼脂糖凝胶电泳...
 - Interests: Badminton, Long-distance running,越野跑（号码牌CM001），骑行（一天178km）, Traveling
 - 雅思口语: 6.5
 - endnote, MobaXterm
