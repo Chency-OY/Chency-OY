@@ -90,6 +90,9 @@
 ## 发明专利 & 实用新型专利
 - waiting
 
+## 创业项目
+- 正在做，详情看我github其他项目
+
 ## Research Experience & Projects
 - waiting to write
 - 校级大创（LNP）超声辅助的二硫戊环修饰脂质纳米颗粒实现 mRNA 高效递送
