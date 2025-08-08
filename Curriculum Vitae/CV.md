@@ -114,7 +114,7 @@
 - Technical Skills: C++, Python, HTML5, git, Linux, Markdown
 - ML & DL: CNN
 - Biology & Bioinformatics: PCR, Gel electrophoresis...
-- Interests: Badminton, Long-distance running, Cycling, Traveling
+- Interests: Badminton, Long-distance running,越野跑（号码牌CM001）， Cycling, Traveling
 - 雅思口语: 6.5
 - endnote
 
