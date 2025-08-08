@@ -116,7 +116,7 @@
 - Biology & Bioinformatics: PCR, Gel electrophoresis...
 - Interests: Badminton, Long-distance running,越野跑（号码牌CM001），骑行（一天178km）, Traveling
 - 雅思口语: 6.5
-- endnote
+- endnote, MobaXterm
 
 ## 联系方式
 - [Email: 2712818800@qq.com](mailto:@2712818800@qq.com)
