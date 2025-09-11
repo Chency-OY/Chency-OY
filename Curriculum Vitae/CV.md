@@ -114,7 +114,7 @@
 | 2025.07 - 2025.08 |  | China Construction Bank | |
 
 ## Skill list
-- 编程语言和操作系统等: C++， Python， HTML5， git， Linux， Markdown，R语言
+- 编程语言和操作系统等: C++， Python， HTML5， git， Linux， Markdown，R语言，LaTeX
 - 机器学习 & 深度学习: 
 - 生物 & 生信: 聚合酶链式反应，琼脂糖凝胶电泳...
 - Interests: Badminton, Long-distance running,越野跑，骑行, Traveling
