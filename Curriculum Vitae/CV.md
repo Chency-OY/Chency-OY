@@ -44,7 +44,7 @@
 
 |     Time    |   Position   |   Institution   | Notes |
 |:-----------:|:------------:|:---------------:|:-----:|
-| 2024.10 - present |  | Association for Science and Technology, International College of Pharmaceutical Innovation, Soochow University |  |
+| 2024.10 - 2025.09 |  | Association for Science and Technology, International College of Pharmaceutical Innovation, Soochow University |  |
 | 2025.07 - 2025.08 |  | China Construction Bank | |
 
 ## Skill list
@@ -110,7 +110,7 @@
 
 |     Time    |   Position   |   Institution   | Notes |
 |:-----------:|:------------:|:---------------:|:-----:|
-| 2024.10 - present |  | 学院科协 |  |
+| 2024.10 - 2025.09 |  | 学院科协 |  |
 | 2025.07 - 2025.08 |  | China Construction Bank | |
 
 ## Skill list
