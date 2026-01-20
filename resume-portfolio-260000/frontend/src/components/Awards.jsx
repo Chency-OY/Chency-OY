@@ -1,0 +1,159 @@
+import React from 'react';
+import { useLanguageStore } from '../store/languageStore';
+
+const Awards = () => {
+  const { language } = useLanguageStore();
+
+  const awards = [
+    {
+      id: 7,
+      name: '南京建邺模法学院黑客松 三等奖',
+      nameEn: 'Nanjing Jianye Model Academy Hackathon - Third Prize',
+      time: '2025.12',
+      timeEn: '2025.12',
+      organizer: '建邺区数据局、建邺高新区管委会、模法学院（模型算法学院）',
+      organizerEn: 'Jianye District Data Bureau, Jianye High-Tech Zone Management Committee, Model Academy (Model Algorithm Academy)',
+      desc: ['AI+金融'],
+      descEn: ['AI+Finance']
+    },
+    {
+      id: 1,
+      name: '下乡实践优秀学子奖',
+      nameEn: 'Outstanding Student Award for Rural Practice',
+      time: '2025.11',
+      timeEn: '2025.11',
+      organizer: '中国建设银行江苏省分行',
+      organizerEn: 'China Construction Bank Jiangsu Branch'
+    },
+    {
+      id: 2,
+      name: 'iCAN大学生创新创业大赛',
+      nameEn: 'iCAN College Student Innovation and Entrepreneurship Competition',
+      time: '2025.11.2',
+      timeEn: '2025.11.2',
+      organizer: 'iCAN国际创新创业大赛组委会、南京理工大学、江苏省青少年科技教育协会',
+      organizerEn: 'iCAN International Innovation and Entrepreneurship Competition Committee, Nanjing University of Science and Technology, Jiangsu Youth Science and Technology Education Association',
+      level: '省级（江浙赛区）',
+      levelEn: 'Provincial (Jiangsu-Zhejiang Region)',
+      desc: ['人工智能算法设计环状 RNA 肿瘤药物'],
+      descEn: ['AI Algorithm-Guided Design of Circular RNA Tumor Drugs']
+    },
+    {
+      id: 3,
+      name: '苏州市"吴地工匠"职业技能系列竞赛活动苏州工业园区第十五届高技能大赛暨第七届金鸡湖技能邀请赛生物医药实验技术全国公开挑战赛 初赛 高校组第七名',
+      nameEn: 'Suzhou "Wu Craftsman" Vocational Skills Series Competition - 15th High-Skilled Competition & 7th Jinji Lake Skills Invitational Biomedical Experimental Technology National Open Challenge - Preliminary Round - 7th Place (University Group)',
+      time: '2025.9',
+      timeEn: '2025.9',
+      organizer: '苏州工业园区管理委员会、苏州市人力资源和社会保障局、苏州市总工会等',
+      organizerEn: 'Suzhou Industrial Park Administrative Committee, Suzhou Human Resources and Social Security Bureau, Suzhou Trade Union, etc.'
+    },
+    {
+      id: 4,
+      name: '"AI创想家"超互联全媒体创作大赛 智能体赛道 三等奖（奖金2000元人民币）',
+      nameEn: '"AI Creator" Hyper-Connected Multimedia Creation Competition - AI Agent Track - Third Prize (2000 RMB)',
+      time: '2025.7.4',
+      timeEn: '2025.7.4',
+      organizer: '"AI创想家"超互联全媒体创作大赛组委会、苏州大学未来科学与工程学院、中关村超互联联盟',
+      organizerEn: '"AI Creator" Competition Committee, School of Future Science and Engineering at Soochow University, Zhongguancun Hyper-Connected Alliance',
+      desc: ['AI agent'],
+      descEn: ['AI agent']
+    },
+    {
+      id: 5,
+      name: '"挑战杯"全国大学生课外学术科技作品竞赛 校级三等奖 院级一等奖',
+      nameEn: '"Challenge Cup" National College Students Extracurricular Academic and Technological Works Competition - University Third Prize, School First Prize',
+      time: '2025.3.14',
+      timeEn: '2025.3.14',
+      organizer: '苏州大学',
+      organizerEn: 'Soochow University',
+      level: '校级',
+      levelEn: 'University Level',
+      desc: [
+        '基于mRNA设计的bioPROTAC靶向降解KRAS实现癌症治疗'
+      ],
+      descEn: [
+        'mRNA-Based bioPROTAC Targeted Degradation of KRAS for Cancer Treatment'
+      ]
+    },
+    {
+      id: 8,
+      name: '"挑战杯"全国大学生课外学术科技作品竞赛 校级三等奖 院级一等奖',
+      nameEn: '"Challenge Cup" National College Students Extracurricular Academic and Technological Works Competition - University Third Prize, School First Prize',
+      time: '2025.3.14',
+      timeEn: '2025.3.14',
+      organizer: '苏州大学',
+      organizerEn: 'Soochow University',
+      level: '校级',
+      levelEn: 'University Level',
+      desc: [
+        '基于人工智能视觉识别的荧光手术辅助指导模型'
+      ],
+      descEn: [
+        'AI Vision Recognition-Based Fluorescence-Guided Surgery Assistance Model'
+      ]
+    },
+    {
+      id: 6,
+      name: '优秀团员',
+      nameEn: 'Excellent League Member',
+      time: '2024.12',
+      timeEn: '2024.12',
+      organizer: '学院',
+      organizerEn: 'School'
+    }
+  ];
+
+  return (
+    <section className="py-24 px-8" style={{ fontFamily: "'Noto Sans CJK Thin', sans-serif", fontWeight: 300 }}>
+      <div className="max-w-5xl mx-auto">
+        <h2 className="text-3xl font-light text-center mb-16" style={{ fontFamily: "'Helvetica Neue Light', sans-serif", fontWeight: 400, color: '#6FCF97' }}>
+          {language === 'zh' ? '获奖' : 'Awards'}
+        </h2>
+        <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+          {awards.map((award) => (
+            <div
+              key={award.id}
+              className="p-6 rounded-lg shadow-sm hover:shadow-md transition-shadow duration-300"
+              style={{ backgroundColor: '#FFFFFF' }}
+            >
+              <div className="flex items-start mb-3">
+                <div className="w-2 h-2 rounded-full mt-2 mr-3" style={{ backgroundColor: '#F2994A' }}></div>
+                <div className="flex-1">
+                  <h3 className="text-lg font-light mb-2 leading-relaxed" style={{ fontFamily: "'Helvetica Neue Light', sans-serif", fontWeight: 400, color: '#333' }}>
+                    {language === 'zh' ? award.name : award.nameEn}
+                  </h3>
+                  <div className="space-y-1">
+                    <p className="text-sm text-gray-500">{language === 'zh' ? award.time : award.timeEn}</p>
+                    {award.organizer && (
+                      <p className="text-xs text-gray-600 leading-relaxed">{language === 'zh' ? award.organizer : award.organizerEn}</p>
+                    )}
+                    {award.level && (
+                      <span
+                        className="inline-block px-2 py-1 text-xs rounded-full mt-2"
+                        style={{ backgroundColor: '#F2F2F2', color: '#F2994A' }}
+                      >
+                        {language === 'zh' ? award.level : award.levelEn}
+                      </span>
+                    )}
+                  </div>
+                  {award.desc && award.desc.length > 0 && (
+                    <ul className="mt-3 space-y-1">
+                      {(language === 'zh' ? award.desc : award.descEn).map((item, index) => (
+                        <li key={index} className="text-sm text-gray-600 pl-4 relative">
+                          <span className="absolute left-0 top-1.5 w-1 h-1 rounded-full" style={{ backgroundColor: '#6FCF97' }}></span>
+                          {item}
+                        </li>
+                      ))}
+                    </ul>
+                  )}
+                </div>
+              </div>
+            </div>
+          ))}
+        </div>
+      </div>
+    </section>
+  );
+};
+
+export default Awards;

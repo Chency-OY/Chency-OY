@@ -1,0 +1,107 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@100;300;400;500;700&family=Helvetica+Neue:wght@100;300;400;500&display=swap');
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    font-family: 'Noto Sans SC', 'Helvetica Neue', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    font-weight: 300;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    /* 默认背景色调整为暖色调，减少冷硬感 */
+    background-color: #FDFBF7;
+  }
+
+  .animate-fade-in {
+    animation: fadeIn 0.8s cubic-bezier(0.16, 1, 0.3, 1);
+  }
+
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  .hover\:shadow-xl {
+    transition: box-shadow 0.3s ease-in-out;
+  }
+
+  /* 新增：更优雅的卡片悬停上浮效果 */
+  .hover-lift {
+    transition: all 0.3s cubic-bezier(0.34, 1.56, 0.64, 1);
+  }
+  
+  .hover-lift:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+  }
+
+  .group:hover .group-hover\:scale-105 {
+    transform: scale(1.05);
+  }
+}
+
+@layer utilities {
+  .font-helvetica-light {
+    font-family: 'Helvetica Neue', sans-serif;
+    font-weight: 300;
+  }
+
+  /* 原有颜色保留 */
+  .text-green-primary { color: #6FCF97; }
+  .text-orange-primary { color: #F2994A; }
+  .bg-gray-primary { background-color: #F2F2F2; }
+  .bg-white-primary { background-color: #FFFFFF; }
+
+  /* 新增个性化主题颜色 - 暖色系与金棕色调 */
+  .bg-cream-50 { background-color: #FDFBF7; }
+  .bg-cream-100 { background-color: #F9F1E6; }
+  .text-cocoa-800 { color: #4A3B32; }
+  .text-cocoa-600 { color: #6D5A4B; }
+  .border-gold-400 { border-color: #D4AF37; }
+  .text-gold-500 { color: #C5A028; }
+  .bg-gold-500 { background-color: #D4AF37; }
+
+  /* 玻璃拟态效果 */
+  .glass-effect {
+    background: rgba(255, 255, 255, 0.8);
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    border: 1px solid rgba(255, 255, 255, 0.4);
+  }
+
+  /* 移动端触摸优化 */
+  button, a, [role="button"] {
+    touch-action: manipulation;
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0.1);
+    user-select: none;
+    -webkit-user-select: none;
+  }
+
+  /* 增强按钮点击区域 */
+  button {
+    min-height: 44px;
+    min-width: 44px;
+  }
+
+  /* 优化滚动性能 */
+  * {
+    -webkit-overflow-scrolling: touch;
+  }
+
+  /* 防止iOS双击缩放 */
+  html {
+    touch-action: manipulation;
+  }
+}
